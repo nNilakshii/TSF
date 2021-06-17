@@ -16,4 +16,4 @@ This repository contains the tasks that I completed while working as an intern f
 
 # References:
 - [Tableau](https://help.tableau.com/v2018.3/offline/en-us/tableau_desktop.pdf)  
-- [Scikit Learn](https://scikit-learn.org/stable/)
+
