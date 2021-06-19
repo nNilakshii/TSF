@@ -6,6 +6,13 @@ This repository contains the tasks that I completed while working as an intern f
 - Internship Duration - 1 Month ( June-2021 )
 - Internship Type - Work from Home
 
+# Task-4 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
+1. Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
+2. Stock to analyze and predict SENSEX (S&P BSE SENSEX)
+3. Download historical stock prices from [finance.yahoo.com](finance.yahoo.com)
+4. Download textual (news) data from https://bit.ly/36fFPI6
+5. Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
+
 # Task-6 : Timeline Analysis : Covid-19 (Level - Advanced)
 1. Create a storyboard showing spread of Covid 19 cases in your country or any region (Asia, Europe, BRICS etc)
 2. Use animation, timeline and annotations to create attractive and interactive dashboards and story
